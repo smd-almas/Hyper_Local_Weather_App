@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
     private val weatherChatbot = WeatherChatbot()
 
     // Replace this with your actual API key
-    private val apiKey = "7b8bf95f3771c21cf4a4323a49226d09"
+    private val apiKey = "YOUR_API_KEY"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
